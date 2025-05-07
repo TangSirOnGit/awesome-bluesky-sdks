@@ -36,6 +36,7 @@
 - [beeskie](https://github.com/jenius-apps/beeskie) — A Windows app for Bluesky
 - [bluesky.net](https://github.com/qonqio/bluesky.net) — .NET SDK for BlueSky
 - [BlueskyFeedGenerator](https://github.com/PassiveModding/BlueskyFeedGenerator)
+- [bluesky-net](https://github.com/dariogriffo/bluesky-net)
 
 
 ## C
@@ -87,11 +88,13 @@
 - [bluesky](https://github.com/mautrix/bluesky) — A Matrix-Bluesky DM puppeting bridge
 - [handles-server](https://github.com/prompt/handles-server) — Bluesky handle verification server
 - [bsky-did-web](https://github.com/savely-krasovsky/bsky-did-web) — Small utility that helps to create Bluesky account using did:web
+- [gomoderate](https://github.com/thepudds/gomoderate) — Automated Bluesky moderation for a more pleasant experience — includes bulk muting of unpleasant accounts blocked by accounts you trust
 
 
 ## Java
 
 - [bsky4j](https://github.com/uakihir0/bsky4j) — Bluesky/ATProtocol client for  java
+- [bsky-bridge](https://github.com/smileostrich/bluesky-api-client) — This is implement of ATProtocol for BlueSky. Providing helper methods for authentication, fetching timelines, and managing content.
 
 
 ## JavaScript / TypeScript
@@ -191,6 +194,20 @@
 - [bsky-widget](https://github.com/saurabhdaware/bsky-widget) — Unofficial Bluesky widget to render cute profile cards in your websites ^_^
 - [govsky](https://github.com/nas5w/govsky) — Govsky is an effort to catalog government presence on Bluesky by tracking when officially government domains sign up for the service.
 - [twitter-to-bsky](https://github.com/59de44955ebd/twitter-to-bsky) — Crosspost from Twitter/X to Bluesky and Mastodon directly in the web browser
+- [https://github.com/bsky-social/statusphere-example-app](https://github.com/bsky-social/statusphere-example-app)
+- [https://github.com/bsky-social/social-app](https://github.com/bsky-social/social-app)
+- [bsky-web](https://github.com/syui/bsky-web) — bsky.social web
+- [BSKY-Wrapper](https://github.com/Amazingca/BSKY-Wrapper) — A wrapper that interprets data from the AT Protocol
+- [skylight](https://github.com/penpenpng/skylight) — Minimal bsky.social web client implementation.
+- [skylight-bluesky-style](https://github.com/louiscnovel2/skylight-bluesky-style) — Minimal bsky.social web client implementation.
+- [redsky](https://github.com/akanoren/redsky)
+- [the-blue](https://github.com/ShinoharaTa/AozoraWebClient)
+- [skyline](https://github.com/louislva/skyline) — Bring your own algorithm for Bluesky ✨
+- [Connectsky](https://github.com/Nester-xyz/Connectsky) — Connectsky is a chrome extension based Bluesky / AT Proto Client with its own accessibilities!
+- [blue-sky-cli](https://github.com/wesbos/blue-sky-cli) — Playing with ATPROTO to pull and post to blue sky
+- [bluesky-overhaul](https://github.com/xenohunter/bluesky-overhaul) — UX improvements for Bluesky web app
+- [skylink](https://github.com/jessejanderson/skylink) — Detect Decentralized Identifiers (DIDs) in a domain's TXT records and link to the associated Bluesky profile.
+- [bsky.link](https://github.com/capjamesg/bsky-link-preview) — Generate embeddable link previews to posts on Bluesky.
 
 
 ## Kotlin
@@ -201,6 +218,7 @@
 - [heron](https://github.com/tunjid/heron) — A graceful multiplatform bluesky client
 - [bluesky-video](https://github.com/bluesky-social/bluesky-video)
 - [Fread](https://github.com/0xZhangKe/Fread) — Mastdon\Bluesky\RSS client, implementation based on Kotlin Multiplatform and Compose Multiplatform.
+- [seiun](https://github.com/akiomik/seiun) — An experimental ATP/Bluesky client app for Android
 
 
 ## Other Languages
@@ -215,6 +233,7 @@
 - [tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
 - [bluesky100](https://github.com/freetonik/bluesky100) — Bluesky: 100 most popular words in the last 5 seconds
 - [bluesky-post](https://github.com/daviddarnes/bluesky-post) — A Web Component to display Bluesky posts and their metadata
+- [bluesky_esphome](https://github.com/softplus/bluesky_esphome) — Basic ESPHOME / c++ / ESP32 configuration to display some Bluesky / atproto content
 
 
 ## PHP
@@ -228,6 +247,7 @@
 - [https://github.com/wordpress/wordpress-share-on-bluesky](https://github.com/wordpress/wordpress-share-on-bluesky)
 - [php2Bluesky](https://github.com/williamsdb/php2Bluesky) — Helper library to post to Bluesky Social
 - [bluesky-notification-channel](https://github.com/innocenzi/bluesky-notification-channel) — Bluesky notification channel for the Laravel framework
+- [atproto-lexicon](https://github.com/socialweb-php/atproto-lexicon) — A PHP-based Lexicon parser for applications using the AT Protocol
 
 
 ## PowerShell
@@ -269,11 +289,16 @@
 - [BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal) — Allows you to send posts including images from your terminal
 - [rss2bsky.py](https://github.com/v-p-b/rss2bsky.py) — RSS to Bluesky - in Python
 - [bluesky-arxiv](https://github.com/amitness/bluesky-arxiv) — A custom feed for latest machine learning papers on bluesky
+- [cookbook](https://github.com/bluesky-social/cookbook) — A collection of example projects and scripts for atproto development.
+- [atprototools](https://github.com/ianklatzco/atprototools) — easy-to-use and ergonomic library for interacting with bluesky
+- [gokyuzu](https://github.com/kiliczsh/gokyuzu) — Gökyüzü - "sky" in Turkish - is a python client for the bsky.social social network.
+- [https://github.com/davidcarryer/pBsky](https://github.com/davidcarryer/pBsky)
 
 
 ## R
 
 - [atrrr](https://github.com/JBGruber/atrrr) — AT Protocol (Authenticated Transfer Protocol behind Bluesky) R package
+- [blueRsky](https://github.com/colin-fraser/blueRsky) — Talk to bluesky
 
 
 ## Ruby
@@ -303,6 +328,7 @@
 - [at_2048](https://github.com/fatfingers23/at_2048) — https://2048.blue
 - [bisky](https://github.com/jesopo/bisky) — Bluesky API library
 - [https://github.com/hipstersmoothie/bluesky-worker](https://github.com/hipstersmoothie/bluesky-worker)
+- [atrium](https://github.com/sugyan/atrium) — Rust libraries for Bluesky's AT Protocol services.
 
 
 ## Swift
@@ -323,3 +349,4 @@
 - [ATAT](https://github.com/mattmassicotte/ATAT) — Little library for working with the AT Protocol
 - [Sky.app](https://github.com/jcsalterego/Sky.app) — Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and notification badges.
 - [IcySky](https://github.com/Dimillian/IcySky) — A BlueSky Client. TBD.
+- [swiftsky](https://github.com/rmcan/swiftsky) — An unofficial Bluesky/ATProto client built in SwiftUI
