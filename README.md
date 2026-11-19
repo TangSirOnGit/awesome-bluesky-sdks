@@ -208,6 +208,7 @@
 - [bluesky-overhaul](https://github.com/xenohunter/bluesky-overhaul) — UX improvements for Bluesky web app
 - [skylink](https://github.com/jessejanderson/skylink) — Detect Decentralized Identifiers (DIDs) in a domain's TXT records and link to the associated Bluesky profile.
 - [bsky.link](https://github.com/capjamesg/bsky-link-preview) — Generate embeddable link previews to posts on Bluesky.
+- [bsbot](https://github.com/blueskydotbot/cli) — TypeScript CLI for claiming Bluesky.bot handles and browsing the public bot directory.
 
 
 ## Kotlin
